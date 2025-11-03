@@ -31,4 +31,8 @@ public class S3Config {
                 .build();
     }
 
+    @Bean
+    public void newBeanInMaster(){
+
+    }
 }
