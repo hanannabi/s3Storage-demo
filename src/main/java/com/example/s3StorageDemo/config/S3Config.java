@@ -32,7 +32,7 @@ public class S3Config {
     }
 
     @Bean
-    public void newBean(){
+    public void newBeanInMaster(){
 
     }
     @Bean
