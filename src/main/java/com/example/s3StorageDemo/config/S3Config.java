@@ -49,5 +49,9 @@ public class S3Config {
     @Bean
     public void oneMore(){
     }
+
+    @Bean
+    public void andLast(){
+    }
     }
 
