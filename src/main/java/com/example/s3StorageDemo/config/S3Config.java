@@ -32,16 +32,12 @@ public class S3Config {
     }
 
     @Bean
-    public void newBeanInMaster(){
-
-    }
-    @Bean
     public void secondBeanInMaster(){
 
     }
     @Bean
-    public void secondBean(){
-
+    public void newBean(){
     }
+
 
 }
