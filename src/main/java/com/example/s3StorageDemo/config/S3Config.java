@@ -42,6 +42,10 @@ public class S3Config {
     @Bean
     public void newBean(){
     }
+    @Bean
+    public void lastBean(){
+    }
+
 
     }
 
