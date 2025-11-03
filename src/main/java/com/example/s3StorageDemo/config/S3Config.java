@@ -39,4 +39,9 @@ public class S3Config {
     public void secondBeanInMaster(){
 
     }
+    @Bean
+    public void secondBean(){
+
+    }
+
 }
